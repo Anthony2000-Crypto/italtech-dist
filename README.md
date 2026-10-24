@@ -1,6 +1,6 @@
 # ItalTech Dist
 
-Pacchetti delle **11 applicazioni desktop freeware ItalTech**. Questo repository contiene solo distribuzioni: nessun sorgente, nessun cloud, nessuna telemetria.
+Pacchetti delle **11 applicazioni desktop freeware ItalTech** e del **launcher**. Questo repository contiene solo distribuzioni: nessun sorgente, nessun cloud, nessuna telemetria.
 
 ## Download
 
@@ -18,11 +18,17 @@ Pacchetti delle **11 applicazioni desktop freeware ItalTech**. Questo repository
 | [OCR ItalTech](tools/ocr-italtech/) | 2.1.0 | AppImage, DEB, RPM | — | EXE, MSI |
 | [ItalTech Utility](tools/italtech-utility/) | 1.10.0 | AppImage, DEB, RPM | APK | EXE, MSI |
 
-I link puntano ai file in `tools/<tool>/latest/`. Ogni tool ha il proprio README breve e la propria licenza freeware.
+## Launcher
+
+| Versione | Windows |
+|---|---|
+| 0.1.0 | [EXE](launcher/latest/italtech-launcher-0.1.0-setup.exe) · [MSI](launcher/latest/italtech-launcher-0.1.0.msi) |
+
+I link dei tool puntano a `tools/<tool>/latest/`, quello del launcher a `launcher/latest/`. Ogni tool ha il proprio README breve e la propria licenza freeware.
 
 ## Catalogo per il launcher
 
-[`catalog.json`](catalog.json) elenca versioni, piattaforme, dimensioni e SHA-256 di ogni pacchetto. Gli installer Windows MSI/EXE vengono compilati da GitHub Actions e aggiunti qui automaticamente.
+[`catalog.json`](catalog.json) elenca versioni, piattaforme, dimensioni e SHA-256 di ogni pacchetto, compreso il launcher. Gli installer Windows MSI/EXE vengono compilati da GitHub Actions e aggiunti qui automaticamente.
 
 URL pubblico del catalogo: `https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/catalog.json`
 
