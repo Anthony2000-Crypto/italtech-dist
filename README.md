@@ -24,6 +24,8 @@ I link puntano ai file in `tools/<tool>/latest/`. Ogni tool ha il proprio README
 
 [`catalog.json`](catalog.json) elenca versioni, piattaforme, dimensioni e SHA-256 di ogni pacchetto. Gli installer Windows MSI/EXE vengono compilati da GitHub Actions e aggiunti qui automaticamente.
 
+URL pubblico del catalogo: `https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/catalog.json`
+
 ## Licenza
 
 Ogni applicazione è freeware. I termini sono nella `LICENSE.md` della rispettiva cartella.
