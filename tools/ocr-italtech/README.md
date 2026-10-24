@@ -2,7 +2,7 @@
 
 Testo e codice da screenshot con OCR locale incluso. Nessun upload.
 
-- **Linux:** [APPIMAGE](latest/ocr-italtech-2.1.0.AppImage) · [DEB](latest/ocr-italtech-2.1.0_amd64.deb) · [RPM](latest/ocr-italtech-2.1.0.x86_64.rpm)
+- **Linux:** [AppImage](latest/ocr-italtech-2.1.0.AppImage) · [DEB](latest/ocr-italtech-2.1.0_amd64.deb) · [RPM](latest/ocr-italtech-2.1.0.x86_64.rpm)
 - **Android:** non disponibile
 - **Windows:** in arrivo (GitHub Actions)
 
