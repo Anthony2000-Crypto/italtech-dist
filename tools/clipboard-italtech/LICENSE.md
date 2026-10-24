@@ -3,7 +3,7 @@
 © 2026 ItalTech — Tutti i diritti riservati.
 
 ItalTech concede l'uso gratuito di **Clipboard ItalTech** (il "Software"), senza costo di licenza.
-Il codice sorgente è pubblicato in questo repository solo per consentire la build e la verifica del Software: il Software è freeware, non open source.
+Il codice sorgente è disponibile nel repository dei sorgenti ItalTech; il Software è freeware, non open source.
 
 ## Uso consentito
 
