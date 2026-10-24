@@ -4,7 +4,7 @@ Cronologia appunti locale con ricerca, gruppi, trasformazioni e snippet.
 
 - **Linux:** [AppImage](latest/clipboard-italtech-2.0.0.AppImage) · [DEB](latest/clipboard-italtech-2.0.0_amd64.deb) · [RPM](latest/clipboard-italtech-2.0.0.x86_64.rpm)
 - **Android:** non disponibile
-- **Windows:** in arrivo (GitHub Actions)
+- **Windows:** [EXE](latest/clipboard-italtech-2.0.0-setup.exe) · [MSI](latest/clipboard-italtech-2.0.0.msi)
 
 Versione: 2.0.0  
 Licenza: [LICENSE.md](LICENSE.md)
