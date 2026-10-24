@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-24T11:16:04.466Z",
+  "generatedAt": "2026-10-24T11:21:46.377Z",
   "repository": "Anthony2000-Crypto/italtech-dist",
   "baseUrl": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/",
   "tools": [
@@ -17,13 +17,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.0.0-setup.exe",
             "filename": "password-italtech-2.0.0-setup.exe",
             "size": 2972616,
-            "sha256": "f9c02c2d432d0874924588bae5baf50a8b766ceb76e1f56b2a5cddfe4783c508"
+            "sha256": "f9c02c2d432d0874924588bae5baf50a8b766ceb76e1f56b2a5cddfe4783c508",
+            "installer": "nsis",
+            "executable": "password-italtech.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.0.0.msi",
             "filename": "password-italtech-2.0.0.msi",
             "size": 3538944,
-            "sha256": "b840368fbdb95f78f6e7855c9411f1a3f3cda014e6f7de5d2de82331158874cb"
+            "sha256": "b840368fbdb95f78f6e7855c9411f1a3f3cda014e6f7de5d2de82331158874cb",
+            "installer": "msi",
+            "executable": "password-italtech.exe"
           }
         },
         "linux-x64": {
@@ -69,13 +73,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.0.0-setup.exe",
             "filename": "notes-italtech-2.0.0-setup.exe",
             "size": 2961432,
-            "sha256": "acac942c7508925224de977353be77d98a0938c5e44e97e3a5673edf6cc2f6df"
+            "sha256": "acac942c7508925224de977353be77d98a0938c5e44e97e3a5673edf6cc2f6df",
+            "installer": "nsis",
+            "executable": "notes-italtech.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.0.0.msi",
             "filename": "notes-italtech-2.0.0.msi",
             "size": 3526656,
-            "sha256": "de776a08d7665bfc3dc651303724971d46064a05565bf8e8b541b8f892c2d823"
+            "sha256": "de776a08d7665bfc3dc651303724971d46064a05565bf8e8b541b8f892c2d823",
+            "installer": "msi",
+            "executable": "notes-italtech.exe"
           }
         },
         "linux-x64": {
@@ -121,13 +129,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/forensic-italtech/latest/forensic-italtech-2.0.0-setup.exe",
             "filename": "forensic-italtech-2.0.0-setup.exe",
             "size": 2942233,
-            "sha256": "f1acc55517a2a86a4ad9ddef553c9d6fb102e2dee8ff5653045d6371dff0c7f8"
+            "sha256": "f1acc55517a2a86a4ad9ddef553c9d6fb102e2dee8ff5653045d6371dff0c7f8",
+            "installer": "nsis",
+            "executable": "forensic-italtech.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/forensic-italtech/latest/forensic-italtech-2.0.0.msi",
             "filename": "forensic-italtech-2.0.0.msi",
             "size": 3522560,
-            "sha256": "f655490ba1d8740f60d5a1cf0ad3be8df7a026aef7ae5fee82c0a646fb063b04"
+            "sha256": "f655490ba1d8740f60d5a1cf0ad3be8df7a026aef7ae5fee82c0a646fb063b04",
+            "installer": "msi",
+            "executable": "forensic-italtech.exe"
           }
         },
         "linux-x64": {
@@ -165,13 +177,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.0.0-setup.exe",
             "filename": "anonymizer-italtech-2.0.0-setup.exe",
             "size": 2978581,
-            "sha256": "096afb61de774319d3b7d290085067465b2c66d6707ab80ea4ee53085b08129e"
+            "sha256": "096afb61de774319d3b7d290085067465b2c66d6707ab80ea4ee53085b08129e",
+            "installer": "nsis",
+            "executable": "anonymizer.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.0.0.msi",
             "filename": "anonymizer-italtech-2.0.0.msi",
             "size": 3543040,
-            "sha256": "159f3b14b826e58ee603654b914d07f5bf7c9268c34aec429fe285a07e1c0463"
+            "sha256": "159f3b14b826e58ee603654b914d07f5bf7c9268c34aec429fe285a07e1c0463",
+            "installer": "msi",
+            "executable": "anonymizer.exe"
           }
         },
         "linux-x64": {
@@ -217,13 +233,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.0.0-setup.exe",
             "filename": "clipboard-italtech-2.0.0-setup.exe",
             "size": 2964280,
-            "sha256": "1c84534485827444ae4ad38302b452e3e03d5fd25598337350f9d1ba847403ea"
+            "sha256": "1c84534485827444ae4ad38302b452e3e03d5fd25598337350f9d1ba847403ea",
+            "installer": "nsis",
+            "executable": "clipboard-italtech.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.0.0.msi",
             "filename": "clipboard-italtech-2.0.0.msi",
             "size": 3526656,
-            "sha256": "e8ba0c8edda9622c61050d7178a6d0aaf5268ea2cbb53b1e777a19bc6fc728fe"
+            "sha256": "e8ba0c8edda9622c61050d7178a6d0aaf5268ea2cbb53b1e777a19bc6fc728fe",
+            "installer": "msi",
+            "executable": "clipboard-italtech.exe"
           }
         },
         "linux-x64": {
@@ -261,13 +281,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/pdf-italtech/latest/pdf-italtech-2.0.0-setup.exe",
             "filename": "pdf-italtech-2.0.0-setup.exe",
             "size": 2979297,
-            "sha256": "41bd5001a6a25845b73d972a5239bdb38639c1dacc90c8fb3c97b79a4e48b5b5"
+            "sha256": "41bd5001a6a25845b73d972a5239bdb38639c1dacc90c8fb3c97b79a4e48b5b5",
+            "installer": "nsis",
+            "executable": "pdf-italtech.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/pdf-italtech/latest/pdf-italtech-2.0.0.msi",
             "filename": "pdf-italtech-2.0.0.msi",
             "size": 3547136,
-            "sha256": "ad56f982793cc0d94789f85781270d58d2b6fe88e521ab7e062017e2e1b65528"
+            "sha256": "ad56f982793cc0d94789f85781270d58d2b6fe88e521ab7e062017e2e1b65528",
+            "installer": "msi",
+            "executable": "pdf-italtech.exe"
           }
         },
         "linux-x64": {
@@ -313,13 +337,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.0.1-setup.exe",
             "filename": "recorder-italtech-2.0.1-setup.exe",
             "size": 2947604,
-            "sha256": "b00bb47c4a5ad69b4543fc91f3e8c698436c8c7a5a4c39cd8a59160e62aa39c8"
+            "sha256": "b00bb47c4a5ad69b4543fc91f3e8c698436c8c7a5a4c39cd8a59160e62aa39c8",
+            "installer": "nsis",
+            "executable": "recorder-italtech.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.0.1.msi",
             "filename": "recorder-italtech-2.0.1.msi",
             "size": 3514368,
-            "sha256": "03b762696d92fb969df2b2afd4b24b6dfabeb2ab235b7fa29d62e4aec79bf65d"
+            "sha256": "03b762696d92fb969df2b2afd4b24b6dfabeb2ab235b7fa29d62e4aec79bf65d",
+            "installer": "msi",
+            "executable": "recorder-italtech.exe"
           }
         },
         "linux-x64": {
@@ -357,13 +385,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/codici-italtech/latest/codici-italtech-2.0.0-setup.exe",
             "filename": "codici-italtech-2.0.0-setup.exe",
             "size": 2914349,
-            "sha256": "63dc173875f711af39d2cb3b095bafb607fd4a4890f3a4bf731e69c3db83c843"
+            "sha256": "63dc173875f711af39d2cb3b095bafb607fd4a4890f3a4bf731e69c3db83c843",
+            "installer": "nsis",
+            "executable": "codici-italtech.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/codici-italtech/latest/codici-italtech-2.0.0.msi",
             "filename": "codici-italtech-2.0.0.msi",
             "size": 3497984,
-            "sha256": "d0635304e95f88bff28438928903e9d3baced6788a20d8acde783fc52ad7a7fc"
+            "sha256": "d0635304e95f88bff28438928903e9d3baced6788a20d8acde783fc52ad7a7fc",
+            "installer": "msi",
+            "executable": "codici-italtech.exe"
           }
         },
         "linux-x64": {
@@ -401,13 +433,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/metadati-italtech/latest/metadati-italtech-2.0.0-setup.exe",
             "filename": "metadati-italtech-2.0.0-setup.exe",
             "size": 2943378,
-            "sha256": "07ff9a5013f8989b8aa337676b34d4742e27a1d535096c915b98ca8cc28d9223"
+            "sha256": "07ff9a5013f8989b8aa337676b34d4742e27a1d535096c915b98ca8cc28d9223",
+            "installer": "nsis",
+            "executable": "metadati-italtech.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/metadati-italtech/latest/metadati-italtech-2.0.0.msi",
             "filename": "metadati-italtech-2.0.0.msi",
             "size": 3526656,
-            "sha256": "d79055b269b733e2820686f4b30abcd3620740de0182250d125e84eb7003ad91"
+            "sha256": "d79055b269b733e2820686f4b30abcd3620740de0182250d125e84eb7003ad91",
+            "installer": "msi",
+            "executable": "metadati-italtech.exe"
           }
         },
         "linux-x64": {
@@ -445,13 +481,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/ocr-italtech/latest/ocr-italtech-2.1.0-setup.exe",
             "filename": "ocr-italtech-2.1.0-setup.exe",
             "size": 7567716,
-            "sha256": "282fd00bca3398579075a4fda93e67a7dc7e80e07b16152eb2ba661ac44b03e7"
+            "sha256": "282fd00bca3398579075a4fda93e67a7dc7e80e07b16152eb2ba661ac44b03e7",
+            "installer": "nsis",
+            "executable": "ocr-italtech.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/ocr-italtech/latest/ocr-italtech-2.1.0.msi",
             "filename": "ocr-italtech-2.1.0.msi",
             "size": 8122368,
-            "sha256": "7d21a69348db22b71922a3cf03111e8053dbf263a3b36513da3a0fea9f39b4ae"
+            "sha256": "7d21a69348db22b71922a3cf03111e8053dbf263a3b36513da3a0fea9f39b4ae",
+            "installer": "msi",
+            "executable": "ocr-italtech.exe"
           }
         },
         "linux-x64": {
@@ -489,13 +529,17 @@
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/italtech-utility/latest/italtech-utility-1.10.0-setup.exe",
             "filename": "italtech-utility-1.10.0-setup.exe",
             "size": 3499979,
-            "sha256": "8ba0a03e8d6e3c8ddb253f9b0dd7284b36ad6a933a5490d4d52d44ee553dde4c"
+            "sha256": "8ba0a03e8d6e3c8ddb253f9b0dd7284b36ad6a933a5490d4d52d44ee553dde4c",
+            "installer": "nsis",
+            "executable": "italtech-utility.exe"
           },
           "msi": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/italtech-utility/latest/italtech-utility-1.10.0.msi",
             "filename": "italtech-utility-1.10.0.msi",
             "size": 4075520,
-            "sha256": "6efc5d793660775d0e7848bf8b00730a8b17e3dba084b24943fe3a318172bea0"
+            "sha256": "6efc5d793660775d0e7848bf8b00730a8b17e3dba084b24943fe3a318172bea0",
+            "installer": "msi",
+            "executable": "italtech-utility.exe"
           }
         },
         "linux-x64": {
