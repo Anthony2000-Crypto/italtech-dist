@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-24T10:29:41.427Z",
+  "generatedAt": "2026-10-24T10:31:34.556Z",
   "repository": "Anthony2000-Crypto/italtech-dist",
   "baseUrl": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/",
   "tools": [
@@ -19,17 +19,17 @@
             "size": 80722424,
             "sha256": "239a89e4a27644e64acfcc7547dbc4f54e18a407b33380c0dffabc3fc4e45518"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.0.0_amd64.deb",
-            "filename": "password-italtech-2.0.0_amd64.deb",
-            "size": 1531790,
-            "sha256": "91384d5ad8c80f94b42061856e23be0166656745bb6c3057f4d97a2bce35ffbd"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.0.0.x86_64.rpm",
             "filename": "password-italtech-2.0.0.x86_64.rpm",
             "size": 1530917,
             "sha256": "dbf4e32540b9ad20e6a6fa3a8b1253d9261c01afb9bffd6f0e3dbf5efd3c4901"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.0.0_amd64.deb",
+            "filename": "password-italtech-2.0.0_amd64.deb",
+            "size": 1531790,
+            "sha256": "91384d5ad8c80f94b42061856e23be0166656745bb6c3057f4d97a2bce35ffbd"
           }
         },
         "android": {
@@ -57,17 +57,17 @@
             "size": 80710136,
             "sha256": "cf8d8f1a1a258aa236c6267739a303025e8d474cb439d5bb25cf8ccee0d7c7de"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.0.0_amd64.deb",
-            "filename": "notes-italtech-2.0.0_amd64.deb",
-            "size": 1521786,
-            "sha256": "939062285384361e3fe7782ff582cb6bac722ba26f9f7d1a91020026de0d58c4"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.0.0.x86_64.rpm",
             "filename": "notes-italtech-2.0.0.x86_64.rpm",
             "size": 1523350,
             "sha256": "309d457b28284293fb397aedcab2d154a47b0107150c32238a72bd8975832d37"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.0.0_amd64.deb",
+            "filename": "notes-italtech-2.0.0_amd64.deb",
+            "size": 1521786,
+            "sha256": "939062285384361e3fe7782ff582cb6bac722ba26f9f7d1a91020026de0d58c4"
           }
         },
         "android": {
@@ -95,17 +95,17 @@
             "size": 80910840,
             "sha256": "7e65e8ce9a1a61906f151d4132998454fd8b9a7df847065c5351b9e3e7c48613"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/forensic-italtech/latest/forensic-italtech-2.0.0_amd64.deb",
-            "filename": "forensic-italtech-2.0.0_amd64.deb",
-            "size": 1509780,
-            "sha256": "9603a575d71686d5d1bfc0de25c81ffbbec5aa35183849b38e55d5654dbf2bbb"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/forensic-italtech/latest/forensic-italtech-2.0.0.x86_64.rpm",
             "filename": "forensic-italtech-2.0.0.x86_64.rpm",
             "size": 1516016,
             "sha256": "9fc81a3d40f64921c05311e681a541f8e6f81de782d95dd834c01753d36c0c32"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/forensic-italtech/latest/forensic-italtech-2.0.0_amd64.deb",
+            "filename": "forensic-italtech-2.0.0_amd64.deb",
+            "size": 1509780,
+            "sha256": "9603a575d71686d5d1bfc0de25c81ffbbec5aa35183849b38e55d5654dbf2bbb"
           }
         }
       }
@@ -125,17 +125,17 @@
             "size": 80730616,
             "sha256": "d0f0de0494d58d38c386203b7426b158c42bb3a5c17fbc4ad8f4a3593639aef3"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.0.0_amd64.deb",
-            "filename": "anonymizer-italtech-2.0.0_amd64.deb",
-            "size": 1535278,
-            "sha256": "caa05ec1d104b20274febeb5e9f134769ea055355d01c2ff26b2101714cf3ee7"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.0.0.x86_64.rpm",
             "filename": "anonymizer-italtech-2.0.0.x86_64.rpm",
             "size": 1537051,
             "sha256": "5411aea90ff9bc959befe0c9e2b228ed8a5bd8200fd60305e373bb9c48341bbb"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.0.0_amd64.deb",
+            "filename": "anonymizer-italtech-2.0.0_amd64.deb",
+            "size": 1535278,
+            "sha256": "caa05ec1d104b20274febeb5e9f134769ea055355d01c2ff26b2101714cf3ee7"
           }
         },
         "android": {
@@ -163,17 +163,17 @@
             "size": 80714232,
             "sha256": "a19e2350110d470f104cd86e33b4b309872d9f56abcc669080929892f31e4b1d"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.0.0_amd64.deb",
-            "filename": "clipboard-italtech-2.0.0_amd64.deb",
-            "size": 1522452,
-            "sha256": "c4a961cb169b7418860a624c8db6ab4ed5fa5880972e1e1ae862d09e616f4812"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.0.0.x86_64.rpm",
             "filename": "clipboard-italtech-2.0.0.x86_64.rpm",
             "size": 1524362,
             "sha256": "200bb820362d2c70dd83157341148243c0d3908a049125d89a0d2195ac3c74d5"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.0.0_amd64.deb",
+            "filename": "clipboard-italtech-2.0.0_amd64.deb",
+            "size": 1522452,
+            "sha256": "c4a961cb169b7418860a624c8db6ab4ed5fa5880972e1e1ae862d09e616f4812"
           }
         }
       }
@@ -193,17 +193,17 @@
             "size": 80730616,
             "sha256": "67c1226dc7a14905894ce75855d804ca36cec8ad18992fae8fd2e6eeb426d6ac"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/pdf-italtech/latest/pdf-italtech-2.0.0_amd64.deb",
-            "filename": "pdf-italtech-2.0.0_amd64.deb",
-            "size": 1538878,
-            "sha256": "63db8211a638b8d37b1c31d7b3d46cb633d202f60baf4ad8a138e70d924124ca"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/pdf-italtech/latest/pdf-italtech-2.0.0.x86_64.rpm",
             "filename": "pdf-italtech-2.0.0.x86_64.rpm",
             "size": 1540301,
             "sha256": "bbe288c6dbf9be333214c4c7de47a6d8eb917598d50a239edb9ab87ed73f7968"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/pdf-italtech/latest/pdf-italtech-2.0.0_amd64.deb",
+            "filename": "pdf-italtech-2.0.0_amd64.deb",
+            "size": 1538878,
+            "sha256": "63db8211a638b8d37b1c31d7b3d46cb633d202f60baf4ad8a138e70d924124ca"
           }
         },
         "android": {
@@ -231,17 +231,17 @@
             "size": 80697848,
             "sha256": "8469a12e9daa865b75ea27092a2348682158183d6580db7b671edb16b4286a63"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.0.1_amd64.deb",
-            "filename": "recorder-italtech-2.0.1_amd64.deb",
-            "size": 1506592,
-            "sha256": "a23eea02ed1bcd318aa5a7eb32ae4e216fe5dc53ccb8ce8296f941651c64ba4f"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.0.1.x86_64.rpm",
             "filename": "recorder-italtech-2.0.1.x86_64.rpm",
             "size": 1508970,
             "sha256": "5a9df56b7e845ac46b1a5da20e5c85708ea1af8b000943f355a0449181f50ee6"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.0.1_amd64.deb",
+            "filename": "recorder-italtech-2.0.1_amd64.deb",
+            "size": 1506592,
+            "sha256": "a23eea02ed1bcd318aa5a7eb32ae4e216fe5dc53ccb8ce8296f941651c64ba4f"
           }
         }
       }
@@ -261,17 +261,17 @@
             "size": 80882168,
             "sha256": "7957e9f755cf1ed3b7e20fb27ad335d95a600ea3c68dea405ff612aa81627791"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/codici-italtech/latest/codici-italtech-2.0.0_amd64.deb",
-            "filename": "codici-italtech-2.0.0_amd64.deb",
-            "size": 1479454,
-            "sha256": "b765dc2c61ab29156eb7c1328186819e6d0380f4708696b865ee873715700d1b"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/codici-italtech/latest/codici-italtech-2.0.0.x86_64.rpm",
             "filename": "codici-italtech-2.0.0.x86_64.rpm",
             "size": 1486099,
             "sha256": "6664d9f678e22efc45978e47b902c68d3678415ba3992260e7993d5f77d29be1"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/codici-italtech/latest/codici-italtech-2.0.0_amd64.deb",
+            "filename": "codici-italtech-2.0.0_amd64.deb",
+            "size": 1479454,
+            "sha256": "b765dc2c61ab29156eb7c1328186819e6d0380f4708696b865ee873715700d1b"
           }
         }
       }
@@ -291,17 +291,17 @@
             "size": 80910840,
             "sha256": "ca672a16baf0ef223e981684171b3d9393355788960e1d3533c957cb2ff9e6d3"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/metadati-italtech/latest/metadati-italtech-2.0.0_amd64.deb",
-            "filename": "metadati-italtech-2.0.0_amd64.deb",
-            "size": 1510058,
-            "sha256": "ca3fb9982c536251e1aad45c30d370d90ad67aad661e5cca69cba555b43a25ad"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/metadati-italtech/latest/metadati-italtech-2.0.0.x86_64.rpm",
             "filename": "metadati-italtech-2.0.0.x86_64.rpm",
             "size": 1514377,
             "sha256": "6ad1a934fd215b8d245d4bc6206d23e83c4ace85ca6435829aee5d2ab1aa2f3f"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/metadati-italtech/latest/metadati-italtech-2.0.0_amd64.deb",
+            "filename": "metadati-italtech-2.0.0_amd64.deb",
+            "size": 1510058,
+            "sha256": "ca3fb9982c536251e1aad45c30d370d90ad67aad661e5cca69cba555b43a25ad"
           }
         }
       }
@@ -321,17 +321,17 @@
             "size": 80935416,
             "sha256": "523d5f8262bd93c95aba23cfb02e185c5b539eaaccac00995dcec13d0488afd0"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/ocr-italtech/latest/ocr-italtech-2.1.0_amd64.deb",
-            "filename": "ocr-italtech-2.1.0_amd64.deb",
-            "size": 1533390,
-            "sha256": "783530abdfc30363a1a65acf82307086d456de9ec8c8173ad35fbc281552412d"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/ocr-italtech/latest/ocr-italtech-2.1.0.x86_64.rpm",
             "filename": "ocr-italtech-2.1.0.x86_64.rpm",
             "size": 1537855,
             "sha256": "67aff358d0103c60e9de9b39af79c7b92a88e1db0ed0ecabf0b7eba3f7c6cd45"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/ocr-italtech/latest/ocr-italtech-2.1.0_amd64.deb",
+            "filename": "ocr-italtech-2.1.0_amd64.deb",
+            "size": 1533390,
+            "sha256": "783530abdfc30363a1a65acf82307086d456de9ec8c8173ad35fbc281552412d"
           }
         }
       }
@@ -351,17 +351,17 @@
             "size": 81459704,
             "sha256": "6fedcaca735f0471fd814904743a45d5244b1cbd338a022add707535de2cfbbe"
           },
-          "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/italtech-utility/latest/italtech-utility-1.10.0_amd64.deb",
-            "filename": "italtech-utility-1.10.0_amd64.deb",
-            "size": 2060624,
-            "sha256": "01934b7ba19c7a1a90a7a111100a01c5eaa147818febcdc177af831cf76dae94"
-          },
           "rpm": {
             "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/italtech-utility/latest/italtech-utility-1.10.0.x86_64.rpm",
             "filename": "italtech-utility-1.10.0.x86_64.rpm",
             "size": 2066240,
             "sha256": "b92e1b6bedee40e7aff89fd45b76d73263af0c70d76fa4ac2ca667eafd813afd"
+          },
+          "deb": {
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/italtech-utility/latest/italtech-utility-1.10.0_amd64.deb",
+            "filename": "italtech-utility-1.10.0_amd64.deb",
+            "size": 2060624,
+            "sha256": "01934b7ba19c7a1a90a7a111100a01c5eaa147818febcdc177af831cf76dae94"
           }
         },
         "android": {
