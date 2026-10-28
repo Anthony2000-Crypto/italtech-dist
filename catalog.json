@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-28T09:04:22.458Z",
+  "generatedAt": "2026-10-28T09:28:59.988Z",
   "repository": "Anthony2000-Crypto/italtech-dist",
   "baseUrl": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/",
   "tools": [
@@ -750,14 +750,15 @@
   "launcher": {
     "id": "italtech-launcher",
     "name": "ItalTech App Suite Store",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "tagline": "Installa e aggiorna la suite",
-    "updatedAt": "2026-10-28T09:04:22.404Z",
+    "updatedAt": "2026-10-28T09:28:30.101Z",
     "platforms": {
       "linux-x64": {
         "appimage": {
           "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/launcher/latest/italtech-launcher-1.0.1.AppImage",
           "filename": "italtech-launcher-1.0.1.AppImage",
+          "version": "1.0.1",
           "size": 83102200,
           "sha256": "0df612f2d98c67e341b3258b7889cae20a986080ffcad13333de8655f4d7cb8d",
           "executable": "italtech-launcher",
@@ -766,6 +767,7 @@
         "deb": {
           "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/launcher/latest/italtech-launcher_1.0.1_amd64.deb",
           "filename": "italtech-launcher_1.0.1_amd64.deb",
+          "version": "1.0.1",
           "size": 3551802,
           "sha256": "eaf17df4f7e3a1b5cb2b9e3a2d0e8b7f0ac766b50c2358e7c0bca6134fd4befe",
           "executable": "italtech-launcher",
@@ -774,6 +776,7 @@
         "rpm": {
           "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/launcher/latest/italtech-launcher-1.0.1.x86_64.rpm",
           "filename": "italtech-launcher-1.0.1.x86_64.rpm",
+          "version": "1.0.1",
           "size": 3474960,
           "sha256": "2b714a307e59aa15e9718a617e3fd8e58eb2b69274bcc1986b0fc38f236b4ddd",
           "executable": "italtech-launcher",
@@ -782,6 +785,7 @@
         "pkg": {
           "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/launcher/latest/italtech-launcher-1.0.1-1-x86_64.pkg.tar.zst",
           "filename": "italtech-launcher-1.0.1-1-x86_64.pkg.tar.zst",
+          "version": "1.0.1",
           "size": 3363419,
           "sha256": "19cb68d1b1987b9aa25ff9dad6f393958b0c12cc5d4e863af20faf2ea58b3ba2",
           "executable": "italtech-launcher",
@@ -790,10 +794,11 @@
       },
       "android": {
         "apk": {
-          "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/launcher/latest/italtech-launcher-1.0.1-universal.apk",
-          "filename": "italtech-launcher-1.0.1-universal.apk",
+          "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/launcher/latest/italtech-launcher-1.0.2-universal.apk",
+          "filename": "italtech-launcher-1.0.2-universal.apk",
+          "version": "1.0.2",
           "size": 10308275,
-          "sha256": "79912487fa9a35e8e2c52a8030dff2d29ff97cbd48d04f2a9d1cab14c2766b87",
+          "sha256": "eed9282f218fe8026a1594ad0510dbcd9a9bec2db6c7f71ff368487d50b3eb1e",
           "package": "it.italtech.launcher"
         }
       },
@@ -801,6 +806,7 @@
         "nsis": {
           "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/launcher/latest/italtech-launcher-1.0.1-setup.exe",
           "filename": "italtech-launcher-1.0.1-setup.exe",
+          "version": "1.0.1",
           "size": 4199426,
           "sha256": "6b4a9db974b86d88048fd2b103d8e77408a7caa9ed6c02d30ee9f7e2c7f98c47",
           "installer": "nsis",
