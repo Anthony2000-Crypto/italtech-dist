@@ -27,7 +27,7 @@ I link dei tool puntano a `tools/<tool>/latest/`, quello del launcher a `launche
 
 ## Catalogo per il launcher
 
-[`catalog.json`](catalog.json) elenca versioni, piattaforme, dimensioni, icone, repository e SHA-256 di ogni pacchetto, compreso il launcher. Gli installer Windows MSI/EXE vengono compilati da GitHub Actions e aggiunti qui automaticamente.
+[`catalog.json`](catalog.json) elenca versioni, piattaforme, dimensioni, icone, repository e SHA-256 di ogni pacchetto, compreso il launcher. Gli installer Windows MSI/EXE vengono compilati dalla pipeline di release e aggiunti qui automaticamente.
 
 URL pubblico del catalogo: `https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/catalog.json`
 
