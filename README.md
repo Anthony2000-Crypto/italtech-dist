@@ -21,7 +21,7 @@ Pacchetti delle **10 applicazioni desktop freeware ItalTech** e del **launcher**
 
 | Versione | Piattaforme |
 |---|---|
-| 1.0.2 | [AppImage 1.0.1](launcher/latest/italtech-launcher-1.0.1.AppImage) · [DEB 1.0.1](launcher/latest/italtech-launcher_1.0.1_amd64.deb) · [RPM 1.0.1](launcher/latest/italtech-launcher-1.0.1.x86_64.rpm) · [APK](launcher/latest/italtech-launcher-1.0.2-universal.apk) · [EXE 1.0.1](launcher/latest/italtech-launcher-1.0.1-setup.exe) |
+| 1.0.3 | [AppImage 1.0.1](launcher/latest/italtech-launcher-1.0.1.AppImage) · [DEB 1.0.1](launcher/latest/italtech-launcher_1.0.1_amd64.deb) · [RPM 1.0.1](launcher/latest/italtech-launcher-1.0.1.x86_64.rpm) · [APK](launcher/latest/italtech-launcher-1.0.3-universal.apk) · [EXE 1.0.1](launcher/latest/italtech-launcher-1.0.1-setup.exe) |
 
 I link dei tool puntano a `tools/<tool>/latest/`, quello del launcher a `launcher/latest/`. Ogni tool ha il proprio README breve e la propria licenza freeware.
 

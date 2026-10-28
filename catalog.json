@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-28T09:28:59.988Z",
+  "generatedAt": "2026-10-28T09:52:06.440Z",
   "repository": "Anthony2000-Crypto/italtech-dist",
   "baseUrl": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/",
   "tools": [
@@ -750,9 +750,9 @@
   "launcher": {
     "id": "italtech-launcher",
     "name": "ItalTech App Suite Store",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "tagline": "Installa e aggiorna la suite",
-    "updatedAt": "2026-10-28T09:28:30.101Z",
+    "updatedAt": "2026-10-28T09:52:06.316Z",
     "platforms": {
       "linux-x64": {
         "appimage": {
@@ -794,11 +794,11 @@
       },
       "android": {
         "apk": {
-          "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/launcher/latest/italtech-launcher-1.0.2-universal.apk",
-          "filename": "italtech-launcher-1.0.2-universal.apk",
-          "version": "1.0.2",
+          "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/launcher/latest/italtech-launcher-1.0.3-universal.apk",
+          "filename": "italtech-launcher-1.0.3-universal.apk",
+          "version": "1.0.3",
           "size": 10308275,
-          "sha256": "eed9282f218fe8026a1594ad0510dbcd9a9bec2db6c7f71ff368487d50b3eb1e",
+          "sha256": "e6cb059699f8f7c6c49f628594d72bfc8123251ed72074bbb7b9afd2e6efa97e",
           "package": "it.italtech.launcher"
         }
       },
