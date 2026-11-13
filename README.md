@@ -6,11 +6,11 @@ Pacchetti delle **5 applicazioni desktop freeware ItalTech** e del **launcher**.
 
 | Tool | Versione | Linux | Android | Windows |
 |---|---:|---|---|---|
-| [Password ItalTech](tools/password-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Notes ItalTech](tools/notes-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Anonymizer ItalTech](tools/anonymizer-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Clipboard ItalTech](tools/clipboard-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Recorder ItalTech](tools/recorder-italtech/) | 2.1.3 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Password ItalTech](tools/password-italtech/) | 2.1.2 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Notes ItalTech](tools/notes-italtech/) | 2.1.2 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Anonymizer ItalTech](tools/anonymizer-italtech/) | 2.1.2 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Clipboard ItalTech](tools/clipboard-italtech/) | 2.1.2 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Recorder ItalTech](tools/recorder-italtech/) | 2.1.4 | AppImage, DEB, RPM, Arch | APK | EXE |
 
 ## Launcher
 
