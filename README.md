@@ -1,6 +1,6 @@
 # ItalTech Dist
 
-Pacchetti delle **10 applicazioni desktop freeware ItalTech** e del **launcher**. Questo repository contiene solo distribuzioni: nessun sorgente, nessun cloud, nessuna telemetria.
+Pacchetti delle **5 applicazioni desktop freeware ItalTech** e del **launcher**. Questo repository contiene solo distribuzioni: nessun sorgente, nessun cloud, nessuna telemetria.
 
 ## Download
 
@@ -8,14 +8,9 @@ Pacchetti delle **10 applicazioni desktop freeware ItalTech** e del **launcher**
 |---|---:|---|---|---|
 | [Password ItalTech](tools/password-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
 | [Notes ItalTech](tools/notes-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [File Audit ItalTech](tools/forensic-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
 | [Anonymizer ItalTech](tools/anonymizer-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
 | [Clipboard ItalTech](tools/clipboard-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [PDF ItalTech](tools/pdf-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
 | [Recorder ItalTech](tools/recorder-italtech/) | 2.1.3 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Codici ItalTech](tools/codici-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Metadati ItalTech](tools/metadati-italtech/) | 2.1.1 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [ItalTech Utility](tools/italtech-utility/) | 1.11.2 | AppImage, DEB, RPM, Arch | APK | EXE |
 
 ## Launcher
 
