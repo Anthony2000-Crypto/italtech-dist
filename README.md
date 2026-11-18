@@ -6,12 +6,12 @@ Pacchetti delle **6 applicazioni desktop freeware ItalTech** e del **launcher**.
 
 | Tool | Versione | Linux | Android | Windows |
 |---|---:|---|---|---|
-| [Password ItalTech](tools/password-italtech/) | 2.1.2 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Notes ItalTech](tools/notes-italtech/) | 2.1.2 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Anonymizer ItalTech](tools/anonymizer-italtech/) | 2.1.2 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Clipboard ItalTech](tools/clipboard-italtech/) | 2.1.2 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Recorder ItalTech](tools/recorder-italtech/) | 2.1.4 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Gioco ItalTech](tools/gioco-italtech/) | 1.0.0 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Password ItalTech](tools/password-italtech/) | 2.1.3 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Notes ItalTech](tools/notes-italtech/) | 2.1.3 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Anonymizer ItalTech](tools/anonymizer-italtech/) | 2.1.3 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Clipboard ItalTech](tools/clipboard-italtech/) | 2.1.3 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Recorder ItalTech](tools/recorder-italtech/) | 2.1.5 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [Gioco ItalTech](tools/gioco-italtech/) | 1.0.1 | AppImage, DEB, RPM, Arch | APK | EXE |
 
 ## Launcher
 
@@ -23,7 +23,7 @@ I link dei tool puntano a `tools/<tool>/latest/`, quello del launcher a `launche
 
 ## Catalogo per il launcher
 
-[`catalog.json`](catalog.json) elenca versioni, piattaforme, dimensioni, icone, repository e SHA-256 di ogni pacchetto, compreso il launcher. Gli installer Windows MSI/EXE vengono compilati dalla pipeline di release e aggiunti qui automaticamente.
+[`catalog.json`](catalog.json) elenca versioni, piattaforme, dimensioni, icone, repository e SHA-256 di ogni pacchetto, compreso il launcher. L'installer Windows EXE (NSIS) viene compilato dalla pipeline di release e aggiunto qui automaticamente.
 
 URL pubblico del catalogo: `https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/catalog.json`
 
