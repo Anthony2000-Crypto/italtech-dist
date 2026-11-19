@@ -11,7 +11,7 @@ Pacchetti delle **6 applicazioni desktop freeware ItalTech** e del **launcher**.
 | [Anonymizer ItalTech](tools/anonymizer-italtech/) | 2.1.3 | AppImage, DEB, RPM, Arch | APK | EXE |
 | [Clipboard ItalTech](tools/clipboard-italtech/) | 2.1.3 | AppImage, DEB, RPM, Arch | APK | EXE |
 | [Recorder ItalTech](tools/recorder-italtech/) | 2.1.5 | AppImage, DEB, RPM, Arch | APK | EXE |
-| [Gioco ItalTech](tools/gioco-italtech/) | 1.0.1 | AppImage, DEB, RPM, Arch | APK | EXE |
+| [The Offline Rebellion](tools/gioco-italtech/) | 1.0.2 | AppImage, DEB, RPM, Arch | APK | EXE |
 
 ## Launcher
 
