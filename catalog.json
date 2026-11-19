@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-19T18:02:19.416Z",
+  "generatedAt": "2026-11-19T18:24:03.359Z",
   "repository": "Anthony2000-Crypto/italtech-dist",
   "baseUrl": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/",
   "tools": [
@@ -344,62 +344,62 @@
       "name": "The Offline Rebellion",
       "description": "ItalTech: The Offline Rebellion. Cabinato stealth, storia 3D in prima persona e città esplorabile, con cinque canzoni nel jukebox del bar. Tutto offline, nessun account.",
       "tagline": "Storia e arcade offline",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "icon": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/icon.png",
       "repo": "https://github.com/Anthony2000-Crypto/italtech-dist/tree/main/tools/gioco-italtech",
-      "updatedAt": "2026-11-19T18:02:18.609Z",
+      "updatedAt": "2026-11-19T18:23:56.443Z",
       "license": "tools/gioco-italtech/LICENSE.md",
       "readme": "tools/gioco-italtech/README.md",
       "platforms": {
         "linux-x64": {
           "appimage": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.2.AppImage",
-            "filename": "gioco-italtech-1.0.2.AppImage",
-            "size": 99957240,
-            "sha256": "8c9d7e3229346356b709641cf5f9145e138c445d633e5d750a24739828c108f0",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3.AppImage",
+            "filename": "gioco-italtech-1.0.3.AppImage",
+            "size": 99441144,
+            "sha256": "1b9cc4e6bc6b69403408bbf537408bd2260607aa8e9cba030b7abf1e799f8881",
             "executable": "gioco-italtech",
             "package": "gioco-italtech"
           },
           "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech_1.0.2_amd64.deb",
-            "filename": "gioco-italtech_1.0.2_amd64.deb",
-            "size": 26765568,
-            "sha256": "58894354ca797601416cdcd87a3bde23f9de32eff7441fa732e612776dc454d9",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech_1.0.3_amd64.deb",
+            "filename": "gioco-italtech_1.0.3_amd64.deb",
+            "size": 26253418,
+            "sha256": "5023a55edb27654bb4393afa00ce5effef6954b88b826a3821330cd52c339764",
             "executable": "gioco-italtech",
             "package": "gioco-ital-tech"
           },
           "rpm": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.2.x86_64.rpm",
-            "filename": "gioco-italtech-1.0.2.x86_64.rpm",
-            "size": 27028764,
-            "sha256": "3da872a0a98bc629dbf1ecab6c2335f9e7c8dff45a50a7ec29dd4f56b613d0c6",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3.x86_64.rpm",
+            "filename": "gioco-italtech-1.0.3.x86_64.rpm",
+            "size": 26515780,
+            "sha256": "0f085c2c9bbb03e7357f3d845ef580b9fa17786baba38cad8187c344fa67c241",
             "executable": "gioco-italtech",
             "package": "gioco-italtech"
           },
           "pkg": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.2-1-x86_64.pkg.tar.zst",
-            "filename": "gioco-italtech-1.0.2-1-x86_64.pkg.tar.zst",
-            "size": 27007083,
-            "sha256": "8be562d392a31e1f07ca4ed30b4b77ee68e3b82ad8a7478a1016eeeffa738848",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3-1-x86_64.pkg.tar.zst",
+            "filename": "gioco-italtech-1.0.3-1-x86_64.pkg.tar.zst",
+            "size": 26491986,
+            "sha256": "b57cb699ce5588fc3cf2c52738eadc7f5e4912b4a3de6f28047523f0469f128d",
             "executable": "gioco-italtech",
             "package": "gioco-italtech"
           }
         },
         "android": {
           "apk": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.2-universal.apk",
-            "filename": "gioco-italtech-1.0.2-universal.apk",
-            "size": 30010036,
-            "sha256": "56e9fab24226bbf571fee44625fa4b3b7b08d9feeaa2db4ba6dca3937c535dc6",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3-universal.apk",
+            "filename": "gioco-italtech-1.0.3-universal.apk",
+            "size": 29551284,
+            "sha256": "397b88af30eaa0472826fd41614071b37801f617840d4783750347ab8d54e3b1",
             "package": "com.italtech.offlinerebellion"
           }
         },
         "windows-x64": {
           "nsis": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.2-setup.exe",
-            "filename": "gioco-italtech-1.0.2-setup.exe",
-            "size": 28900137,
-            "sha256": "c333ca05ecb668735826b509ac73aa348ced5481b63a900bef774ae9a2f3b83f",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3-setup.exe",
+            "filename": "gioco-italtech-1.0.3-setup.exe",
+            "size": 28380733,
+            "sha256": "031890deef8b757e42e2ead564d763a503c248d400ec8d16be8374334238e7b2",
             "installer": "nsis",
             "executable": "gioco-italtech.exe"
           }
