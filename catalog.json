@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-19T18:24:03.359Z",
+  "generatedAt": "2026-11-20T16:27:18.903Z",
   "repository": "Anthony2000-Crypto/italtech-dist",
   "baseUrl": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/",
   "tools": [
@@ -9,62 +9,62 @@
       "name": "Password ItalTech",
       "description": "Vault cifrato AES-256-GCM, generatore di password e codici 2FA. Tutto sul dispositivo.",
       "tagline": "Cassaforte e codici 2FA",
-      "version": "2.1.3",
+      "version": "2.1.4",
       "icon": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/icon.png",
       "repo": "https://github.com/Anthony2000-Crypto/italtech-dist/tree/main/tools/password-italtech",
-      "updatedAt": "2026-11-18T16:10:25.414Z",
+      "updatedAt": "2026-11-20T16:22:52.542Z",
       "license": "tools/password-italtech/LICENSE.md",
       "readme": "tools/password-italtech/README.md",
       "platforms": {
         "linux-x64": {
           "appimage": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.3.AppImage",
-            "filename": "password-italtech-2.1.3.AppImage",
-            "size": 82192888,
-            "sha256": "0f4c618cc6966197c555f0ce1ae5ef2c26e79998308b6ebc3995695e7ecdbccd",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.4.AppImage",
+            "filename": "password-italtech-2.1.4.AppImage",
+            "size": 82225656,
+            "sha256": "29119dd4356dd48e1bd1c9c813866f3919efc0d23e970083ebfcfb769276b7ab",
             "executable": "password-italtech",
             "package": "password-italtech"
           },
           "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech_2.1.3_amd64.deb",
-            "filename": "password-italtech_2.1.3_amd64.deb",
-            "size": 2493478,
-            "sha256": "db756cccd2b8b133abbd92047d1464fc8976eb4a929a3871827168c96f543801",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech_2.1.4_amd64.deb",
+            "filename": "password-italtech_2.1.4_amd64.deb",
+            "size": 2520838,
+            "sha256": "8c17a2583b9fb4a70bd16154432182094b3222a10f0c42048594b538b40deab8",
             "executable": "password-italtech",
             "package": "password-ital-tech"
           },
           "rpm": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.3.x86_64.rpm",
-            "filename": "password-italtech-2.1.3.x86_64.rpm",
-            "size": 2423124,
-            "sha256": "5b954244c4f184c084729a9e7fbec510e616bbcf249f2516e66286f77efcd55a",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.4.x86_64.rpm",
+            "filename": "password-italtech-2.1.4.x86_64.rpm",
+            "size": 2528872,
+            "sha256": "94e03f5b21f9f02539a87ff88c1836936ac95bb4ce612de72f006c72ea816802",
             "executable": "password-italtech",
-            "package": "password-italtech"
+            "package": "password-ital-tech"
           },
           "pkg": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.3-1-x86_64.pkg.tar.zst",
-            "filename": "password-italtech-2.1.3-1-x86_64.pkg.tar.zst",
-            "size": 2370590,
-            "sha256": "ae88d93dd21a57e82a90b10274c8ad95286d3cb6c988a38136e0a56c75d4cca9",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.4-1-x86_64.pkg.tar.zst",
+            "filename": "password-italtech-2.1.4-1-x86_64.pkg.tar.zst",
+            "size": 2400667,
+            "sha256": "df6435ab7de0398a70db03f4f5b2993c7db27e50bdfd47d8dd9e2d0edcbb41a8",
             "executable": "password-italtech",
             "package": "password-italtech"
           }
         },
         "android": {
           "apk": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.3-universal.apk",
-            "filename": "password-italtech-2.1.3-universal.apk",
-            "size": 7491195,
-            "sha256": "97b7529273ed545621ee4f14b24fd370d33e586bf551c337f43cd9ae1e22d729",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.4-universal.apk",
+            "filename": "password-italtech-2.1.4-universal.apk",
+            "size": 7519867,
+            "sha256": "e53446803402cef5e8bf8e27118f366f31bc5ccdad2cd26a51ca64d37afda8d2",
             "package": "it.italtech.password"
           }
         },
         "windows-x64": {
           "nsis": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.3-setup.exe",
-            "filename": "password-italtech-2.1.3-setup.exe",
-            "size": 3474164,
-            "sha256": "f473ddfa7657b76faf80815a332d884dab4aca6e718a5d5f911e251765d2b2cc",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/password-italtech/latest/password-italtech-2.1.4-setup.exe",
+            "filename": "password-italtech-2.1.4-setup.exe",
+            "size": 3501087,
+            "sha256": "520beb312dbb6ceb30109418b147a77d5fa61d2e7befe3983e1b8a17e86764f0",
             "installer": "nsis",
             "executable": "password-italtech.exe"
           }
@@ -76,62 +76,62 @@
       "name": "Notes ItalTech",
       "description": "Note cifrate AES-256 con tag, allegati, cronologia e backup locale.",
       "tagline": "Note cifrate, anche a mano",
-      "version": "2.1.3",
+      "version": "2.1.4",
       "icon": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/icon.png",
       "repo": "https://github.com/Anthony2000-Crypto/italtech-dist/tree/main/tools/notes-italtech",
-      "updatedAt": "2026-11-18T16:10:25.370Z",
+      "updatedAt": "2026-11-20T16:22:52.524Z",
       "license": "tools/notes-italtech/LICENSE.md",
       "readme": "tools/notes-italtech/README.md",
       "platforms": {
         "linux-x64": {
           "appimage": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.3.AppImage",
-            "filename": "notes-italtech-2.1.3.AppImage",
-            "size": 82192888,
-            "sha256": "05674aef37f0060f1390de20c5247be1dc7db70291d65d4f80cfc41d154a6c7c",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.4.AppImage",
+            "filename": "notes-italtech-2.1.4.AppImage",
+            "size": 82217464,
+            "sha256": "4ba96dbc738c9ce2e2fa348b7135670dba8c53e4861717fc1c555de4ccc6cedd",
             "executable": "notes-italtech",
             "package": "notes-italtech"
           },
           "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech_2.1.3_amd64.deb",
-            "filename": "notes-italtech_2.1.3_amd64.deb",
-            "size": 2487568,
-            "sha256": "664b5deff3f90deb8574a98d6d20e36c87e2b9457a1fcd889b1b5d31158f1f80",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech_2.1.4_amd64.deb",
+            "filename": "notes-italtech_2.1.4_amd64.deb",
+            "size": 2514656,
+            "sha256": "84e3dd5307be2b7b3164e80be6ae1f8faf84336708ec6ad4c2122ae028543a26",
             "executable": "notes-italtech",
             "package": "notes-ital-tech"
           },
           "rpm": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.3.x86_64.rpm",
-            "filename": "notes-italtech-2.1.3.x86_64.rpm",
-            "size": 2416716,
-            "sha256": "1909f773834fcd56ecec7861ec91131835e8ca20f98de1a448d2c432fb87e41a",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.4.x86_64.rpm",
+            "filename": "notes-italtech-2.1.4.x86_64.rpm",
+            "size": 2522187,
+            "sha256": "795f376bee54d1cd94dc7f1ea2ba925e7efe5293640e1d7c2809b8e0d310ce3e",
             "executable": "notes-italtech",
-            "package": "notes-italtech"
+            "package": "notes-ital-tech"
           },
           "pkg": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.3-1-x86_64.pkg.tar.zst",
-            "filename": "notes-italtech-2.1.3-1-x86_64.pkg.tar.zst",
-            "size": 2362224,
-            "sha256": "20d28997e0afa15f59398fc558ee5de91fd2cec54378d5f256ac4eda184d1a72",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.4-1-x86_64.pkg.tar.zst",
+            "filename": "notes-italtech-2.1.4-1-x86_64.pkg.tar.zst",
+            "size": 2388583,
+            "sha256": "39ba4abe03ab43305385fa3013274ebcbc9bb1a4c456360d289d76e69d8bd045",
             "executable": "notes-italtech",
             "package": "notes-italtech"
           }
         },
         "android": {
           "apk": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.3-universal.apk",
-            "filename": "notes-italtech-2.1.3-universal.apk",
-            "size": 7470712,
-            "sha256": "a1e8cc210b39aed4fdc277ccff6eeca28e5297644296ec0775ef6816d973e68c",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.4-universal.apk",
+            "filename": "notes-italtech-2.1.4-universal.apk",
+            "size": 7495288,
+            "sha256": "0784d3e5a2cea6e625adb69c53f295c9f171e7d55be922220241dd72569ef7f8",
             "package": "it.italtech.notes"
           }
         },
         "windows-x64": {
           "nsis": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.3-setup.exe",
-            "filename": "notes-italtech-2.1.3-setup.exe",
-            "size": 3466930,
-            "sha256": "234626516abcdb6cf5df7ad7bb9a274e2014b876c21c512d1e6cf96a66ee8e66",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/notes-italtech/latest/notes-italtech-2.1.4-setup.exe",
+            "filename": "notes-italtech-2.1.4-setup.exe",
+            "size": 3493313,
+            "sha256": "79fed28d28f9c4ce4e1d2ee7ee37a043f2f64e4a935613331a4b973f1875d771",
             "installer": "nsis",
             "executable": "notes-italtech.exe"
           }
@@ -143,62 +143,62 @@
       "name": "Anonymizer ItalTech",
       "description": "Anonimizza e redige dati sensibili in testo, CSV, JSON e documenti.",
       "tagline": "Ripulisci i dati sensibili",
-      "version": "2.1.3",
+      "version": "2.1.4",
       "icon": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/icon.png",
       "repo": "https://github.com/Anthony2000-Crypto/italtech-dist/tree/main/tools/anonymizer-italtech",
-      "updatedAt": "2026-11-18T16:10:24.993Z",
+      "updatedAt": "2026-11-20T16:22:52.421Z",
       "license": "tools/anonymizer-italtech/LICENSE.md",
       "readme": "tools/anonymizer-italtech/README.md",
       "platforms": {
         "linux-x64": {
           "appimage": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.3.AppImage",
-            "filename": "anonymizer-italtech-2.1.3.AppImage",
-            "size": 82233848,
-            "sha256": "8ba86aad61aa294d35329d11dc5b1bc4696cbf991d5a07ca543fb52ed7f703ce",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.4.AppImage",
+            "filename": "anonymizer-italtech-2.1.4.AppImage",
+            "size": 82266616,
+            "sha256": "585512ced77c7054ae903729ab987602e0e4fc87408611ccc5049458e5c7ce7b",
             "executable": "anonymizer",
             "package": "anonymizer-italtech"
           },
           "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech_2.1.3_amd64.deb",
-            "filename": "anonymizer-italtech_2.1.3_amd64.deb",
-            "size": 2532278,
-            "sha256": "2cce928959cc363ad79ce952df5417a8ea365a004bde451df0a85a6a195175a4",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech_2.1.4_amd64.deb",
+            "filename": "anonymizer-italtech_2.1.4_amd64.deb",
+            "size": 2564300,
+            "sha256": "d73bbaa350717d555a581e4c00780b1cb772b590b23fd11570c2ea502328a902",
             "executable": "anonymizer",
             "package": "anonymizer-ital-tech"
           },
           "rpm": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.3.x86_64.rpm",
-            "filename": "anonymizer-italtech-2.1.3.x86_64.rpm",
-            "size": 2459238,
-            "sha256": "a3191f1939ba4cc2c9fbff7d1118b1ce1f9d4c5eb7d05a0bc2d5796927231e58",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.4.x86_64.rpm",
+            "filename": "anonymizer-italtech-2.1.4.x86_64.rpm",
+            "size": 2568885,
+            "sha256": "7e2fc28516b68bfbd746c17c4d70249ad854194d145aa033847dae28021fa952",
             "executable": "anonymizer",
-            "package": "anonymizer-italtech"
+            "package": "anonymizer-ital-tech"
           },
           "pkg": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.3-1-x86_64.pkg.tar.zst",
-            "filename": "anonymizer-italtech-2.1.3-1-x86_64.pkg.tar.zst",
-            "size": 2402741,
-            "sha256": "c2482cf35c85b24cac2f5713a7cb43fe72bd66ff509632431bb782940d3b0718",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.4-1-x86_64.pkg.tar.zst",
+            "filename": "anonymizer-italtech-2.1.4-1-x86_64.pkg.tar.zst",
+            "size": 2426925,
+            "sha256": "99eba2851f0927ad9d1fb60509a9243f59b62867a01b8a58a650023627e1a987",
             "executable": "anonymizer",
             "package": "anonymizer-italtech"
           }
         },
         "android": {
           "apk": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.3-universal.apk",
-            "filename": "anonymizer-italtech-2.1.3-universal.apk",
-            "size": 7487092,
-            "sha256": "3fceccda9902516640b2bea4fe7a319b37c94eb1db161d6fb0db332d290be0da",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.4-universal.apk",
+            "filename": "anonymizer-italtech-2.1.4-universal.apk",
+            "size": 7515764,
+            "sha256": "8b0221f9ffe22fd2f85a8b3a9816a05cd322fd29682978803666300e8aa0d4e7",
             "package": "it.italtech.anonymizer"
           }
         },
         "windows-x64": {
           "nsis": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.3-setup.exe",
-            "filename": "anonymizer-italtech-2.1.3-setup.exe",
-            "size": 3483160,
-            "sha256": "a3e5110b9598cf513f57c47c5972b6248912d8a272570e118880121004526f30",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/anonymizer-italtech/latest/anonymizer-italtech-2.1.4-setup.exe",
+            "filename": "anonymizer-italtech-2.1.4-setup.exe",
+            "size": 3513772,
+            "sha256": "a1198f771455e89f2a81d184f93102505ee3871b6673ab7ed3c1001657970fb1",
             "installer": "nsis",
             "executable": "anonymizer.exe"
           }
@@ -210,62 +210,62 @@
       "name": "Clipboard ItalTech",
       "description": "Cronologia appunti locale con ricerca, gruppi, trasformazioni e snippet.",
       "tagline": "Appunti con memoria",
-      "version": "2.1.3",
+      "version": "2.1.4",
       "icon": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/icon.png",
       "repo": "https://github.com/Anthony2000-Crypto/italtech-dist/tree/main/tools/clipboard-italtech",
-      "updatedAt": "2026-11-18T16:10:25.020Z",
+      "updatedAt": "2026-11-20T16:22:52.492Z",
       "license": "tools/clipboard-italtech/LICENSE.md",
       "readme": "tools/clipboard-italtech/README.md",
       "platforms": {
         "linux-x64": {
           "appimage": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.3.AppImage",
-            "filename": "clipboard-italtech-2.1.3.AppImage",
-            "size": 82221560,
-            "sha256": "c575b82ec43f3121efda03c81eaaa3697befb5f34f00ef3d293ca10434919c31",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.4.AppImage",
+            "filename": "clipboard-italtech-2.1.4.AppImage",
+            "size": 82254328,
+            "sha256": "e2ba8f40fa44d57c967479284797ba85601eb5939d0e64e37699dd7fa9819e25",
             "executable": "clipboard-italtech",
             "package": "clipboard-italtech"
           },
           "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech_2.1.3_amd64.deb",
-            "filename": "clipboard-italtech_2.1.3_amd64.deb",
-            "size": 2524048,
-            "sha256": "1b77c82705747991045a52e53aefc9fcb0ca8973cd625e8ecdd9a1250b072e30",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech_2.1.4_amd64.deb",
+            "filename": "clipboard-italtech_2.1.4_amd64.deb",
+            "size": 2547632,
+            "sha256": "f56751651b598894c28bc79f0e6ac955df44e1763980d8cb30d22b50826bc68f",
             "executable": "clipboard-italtech",
             "package": "clipboard-ital-tech"
           },
           "rpm": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.3.x86_64.rpm",
-            "filename": "clipboard-italtech-2.1.3.x86_64.rpm",
-            "size": 2451326,
-            "sha256": "f82125e374bd282efa7b9422dc0327ccfae4cbeb26e03725211ba698c28edca7",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.4.x86_64.rpm",
+            "filename": "clipboard-italtech-2.1.4.x86_64.rpm",
+            "size": 2554995,
+            "sha256": "dcd66417849df9e43cb246a142305d30e26193b4aacbec8dd63a751d757b7e15",
             "executable": "clipboard-italtech",
-            "package": "clipboard-italtech"
+            "package": "clipboard-ital-tech"
           },
           "pkg": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.3-1-x86_64.pkg.tar.zst",
-            "filename": "clipboard-italtech-2.1.3-1-x86_64.pkg.tar.zst",
-            "size": 2393195,
-            "sha256": "8eaa8a9a1f4a5f52c00ab9a388ecb837e72595127117cd583ae2ef0f2bf51b4a",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.4-1-x86_64.pkg.tar.zst",
+            "filename": "clipboard-italtech-2.1.4-1-x86_64.pkg.tar.zst",
+            "size": 2416812,
+            "sha256": "a99a5be51e9f61a363312d4ba111eb75900c1524dc8cc6fd8a9f9886e92ca069",
             "executable": "clipboard-italtech",
             "package": "clipboard-italtech"
           }
         },
         "android": {
           "apk": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.3-universal.apk",
-            "filename": "clipboard-italtech-2.1.3-universal.apk",
-            "size": 7478908,
-            "sha256": "35eea1c7bbcf17f2f817039a44edba5059d49741c3fd2889bd6008a221e2576d",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.4-universal.apk",
+            "filename": "clipboard-italtech-2.1.4-universal.apk",
+            "size": 7503484,
+            "sha256": "74dcbc32c873aaee4af643111059113e3571597a71ea3475a241de4d1f0eaad6",
             "package": "it.italtech.clipboard"
           }
         },
         "windows-x64": {
           "nsis": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.3-setup.exe",
-            "filename": "clipboard-italtech-2.1.3-setup.exe",
-            "size": 3472257,
-            "sha256": "66c026f1fce690fbc149849873ddb5d675ff4a6edeb099d36506d6f9e53e857c",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/clipboard-italtech/latest/clipboard-italtech-2.1.4-setup.exe",
+            "filename": "clipboard-italtech-2.1.4-setup.exe",
+            "size": 3496355,
+            "sha256": "004d17125d585aa10a881fb04d995c8006645de09825517cd7b58901636ef86f",
             "installer": "nsis",
             "executable": "clipboard-italtech.exe"
           }
@@ -277,62 +277,62 @@
       "name": "Recorder ItalTech",
       "description": "Registra schermo, finestra e audio in locale ed esporta MP4/WebM.",
       "tagline": "Registra schermo e audio",
-      "version": "2.1.5",
+      "version": "2.1.6",
       "icon": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/icon.png",
       "repo": "https://github.com/Anthony2000-Crypto/italtech-dist/tree/main/tools/recorder-italtech",
-      "updatedAt": "2026-11-18T16:10:25.452Z",
+      "updatedAt": "2026-11-20T16:22:52.562Z",
       "license": "tools/recorder-italtech/LICENSE.md",
       "readme": "tools/recorder-italtech/README.md",
       "platforms": {
         "linux-x64": {
           "appimage": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.5.AppImage",
-            "filename": "recorder-italtech-2.1.5.AppImage",
-            "size": 82184696,
-            "sha256": "44552c8c79e1992a297cda98d5edbd2753264e7608c7f79e9d8bea1a09794daf",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.6.AppImage",
+            "filename": "recorder-italtech-2.1.6.AppImage",
+            "size": 82209272,
+            "sha256": "2b5c51658cb43b3081904c8e8a6c139a0eee283f5c8e11e2002bb56ef7362aea",
             "executable": "recorder-italtech",
             "package": "recorder-italtech"
           },
           "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech_2.1.5_amd64.deb",
-            "filename": "recorder-italtech_2.1.5_amd64.deb",
-            "size": 2477822,
-            "sha256": "866d515062834d5813cff0647f1abd857e78a904bd0e71c6ef4a87b987a4d138",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech_2.1.6_amd64.deb",
+            "filename": "recorder-italtech_2.1.6_amd64.deb",
+            "size": 2504564,
+            "sha256": "276c14170038aa7a357eb6d507e7fbb8988970af933d7b10b15b0639778664f6",
             "executable": "recorder-italtech",
             "package": "recorder-ital-tech"
           },
           "rpm": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.5.x86_64.rpm",
-            "filename": "recorder-italtech-2.1.5.x86_64.rpm",
-            "size": 2407345,
-            "sha256": "21f099e7fe15175946df2a3590383966048d9c6c2f209b55f24776aad1b130cd",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.6.x86_64.rpm",
+            "filename": "recorder-italtech-2.1.6.x86_64.rpm",
+            "size": 2513325,
+            "sha256": "525cd5bcbd6102cea2250c67e73981f53acd3c28882491802d4360c96bd0c2ad",
             "executable": "recorder-italtech",
-            "package": "recorder-italtech"
+            "package": "recorder-ital-tech"
           },
           "pkg": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.5-1-x86_64.pkg.tar.zst",
-            "filename": "recorder-italtech-2.1.5-1-x86_64.pkg.tar.zst",
-            "size": 2351198,
-            "sha256": "80609fc319b284eb64f91045bbd86ae92ef9994fc94db3d82c4cbaa876a72abf",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.6-1-x86_64.pkg.tar.zst",
+            "filename": "recorder-italtech-2.1.6-1-x86_64.pkg.tar.zst",
+            "size": 2383597,
+            "sha256": "4dad162f5a45146e9e8a542f466cef7c33be4404cd3b7f52e82b0575218f9b4e",
             "executable": "recorder-italtech",
             "package": "recorder-italtech"
           }
         },
         "android": {
           "apk": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.5-universal.apk",
-            "filename": "recorder-italtech-2.1.5-universal.apk",
-            "size": 7495291,
-            "sha256": "6ec34d0158d8f6cdc2196de7a387ac64b224d76068253e728329acedfebafc0c",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.6-universal.apk",
+            "filename": "recorder-italtech-2.1.6-universal.apk",
+            "size": 7523963,
+            "sha256": "ad5db857e4781925a124caf6b681b16fcb90de9bbf7576b3ebc649835947be10",
             "package": "it.italtech.recorder"
           }
         },
         "windows-x64": {
           "nsis": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.5-setup.exe",
-            "filename": "recorder-italtech-2.1.5-setup.exe",
-            "size": 3461386,
-            "sha256": "3c92866059bbe3fbcf38fb4980892397a317cc301bbb77a465c9f56ce7136d4c",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/recorder-italtech/latest/recorder-italtech-2.1.6-setup.exe",
+            "filename": "recorder-italtech-2.1.6-setup.exe",
+            "size": 3489262,
+            "sha256": "d45eee4479700f024ecbac955b5315dd441ea193f3d1f86289e250c81e384bc1",
             "installer": "nsis",
             "executable": "recorder-italtech.exe"
           }
@@ -344,62 +344,62 @@
       "name": "The Offline Rebellion",
       "description": "ItalTech: The Offline Rebellion. Cabinato stealth, storia 3D in prima persona e città esplorabile, con cinque canzoni nel jukebox del bar. Tutto offline, nessun account.",
       "tagline": "Storia e arcade offline",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "icon": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/icon.png",
       "repo": "https://github.com/Anthony2000-Crypto/italtech-dist/tree/main/tools/gioco-italtech",
-      "updatedAt": "2026-11-19T18:23:56.443Z",
+      "updatedAt": "2026-11-20T16:27:16.936Z",
       "license": "tools/gioco-italtech/LICENSE.md",
       "readme": "tools/gioco-italtech/README.md",
       "platforms": {
         "linux-x64": {
           "appimage": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3.AppImage",
-            "filename": "gioco-italtech-1.0.3.AppImage",
-            "size": 99441144,
-            "sha256": "1b9cc4e6bc6b69403408bbf537408bd2260607aa8e9cba030b7abf1e799f8881",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.4.AppImage",
+            "filename": "gioco-italtech-1.0.4.AppImage",
+            "size": 99469816,
+            "sha256": "e0f44fa5dff1c9002fe44d5e66f6f94d3993da2a942d3ca1f95081fe40a5755b",
             "executable": "gioco-italtech",
             "package": "gioco-italtech"
           },
           "deb": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech_1.0.3_amd64.deb",
-            "filename": "gioco-italtech_1.0.3_amd64.deb",
-            "size": 26253418,
-            "sha256": "5023a55edb27654bb4393afa00ce5effef6954b88b826a3821330cd52c339764",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech_1.0.4_amd64.deb",
+            "filename": "gioco-italtech_1.0.4_amd64.deb",
+            "size": 26586386,
+            "sha256": "599e01ed5aa1d2c3fd346cfd731873fd9687e2a5c2282a1743005345b199fd3a",
             "executable": "gioco-italtech",
-            "package": "gioco-ital-tech"
+            "package": "the-offline-rebellion"
           },
           "rpm": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3.x86_64.rpm",
-            "filename": "gioco-italtech-1.0.3.x86_64.rpm",
-            "size": 26515780,
-            "sha256": "0f085c2c9bbb03e7357f3d845ef580b9fa17786baba38cad8187c344fa67c241",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.4.x86_64.rpm",
+            "filename": "gioco-italtech-1.0.4.x86_64.rpm",
+            "size": 26591418,
+            "sha256": "49fa02c645b883fb823d25fa828100363c1245f6b7e2518f292ee52e810c5cf4",
             "executable": "gioco-italtech",
-            "package": "gioco-italtech"
+            "package": "the-offline-rebellion"
           },
           "pkg": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3-1-x86_64.pkg.tar.zst",
-            "filename": "gioco-italtech-1.0.3-1-x86_64.pkg.tar.zst",
-            "size": 26491986,
-            "sha256": "b57cb699ce5588fc3cf2c52738eadc7f5e4912b4a3de6f28047523f0469f128d",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.4-1-x86_64.pkg.tar.zst",
+            "filename": "gioco-italtech-1.0.4-1-x86_64.pkg.tar.zst",
+            "size": 26522209,
+            "sha256": "9922bd3263d8eb377484b36354915280f86c9d73ad9e6ecce46fed43ca1d5e76",
             "executable": "gioco-italtech",
             "package": "gioco-italtech"
           }
         },
         "android": {
           "apk": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3-universal.apk",
-            "filename": "gioco-italtech-1.0.3-universal.apk",
-            "size": 29551284,
-            "sha256": "397b88af30eaa0472826fd41614071b37801f617840d4783750347ab8d54e3b1",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.4-universal.apk",
+            "filename": "gioco-italtech-1.0.4-universal.apk",
+            "size": 29612724,
+            "sha256": "5d43cea3b5406c129cae9e74fea258a622df740fccb9e7acd7a9d0e2f27086ac",
             "package": "com.italtech.offlinerebellion"
           }
         },
         "windows-x64": {
           "nsis": {
-            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.3-setup.exe",
-            "filename": "gioco-italtech-1.0.3-setup.exe",
-            "size": 28380733,
-            "sha256": "031890deef8b757e42e2ead564d763a503c248d400ec8d16be8374334238e7b2",
+            "url": "https://raw.githubusercontent.com/Anthony2000-Crypto/italtech-dist/main/tools/gioco-italtech/latest/gioco-italtech-1.0.4-setup.exe",
+            "filename": "gioco-italtech-1.0.4-setup.exe",
+            "size": 28407785,
+            "sha256": "5d8f76eb4b45f94a42bd165f74a003f3d2951225de63d33d64fb8e82b62286e4",
             "installer": "nsis",
             "executable": "gioco-italtech.exe"
           }
